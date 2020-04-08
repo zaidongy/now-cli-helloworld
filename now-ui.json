@@ -1,0 +1,17 @@
+{
+	"components": {
+		"x-409431-hello-world": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My Hello World App",
+				"icon": "chart-forecast-fill",
+				"description": "Hello World App"
+			},
+			"innerComponents": [
+				"now-pill",
+				"now-heading"
+			]
+		}
+	},
+	"scopeName": "x_409431_testing_1"
+}
