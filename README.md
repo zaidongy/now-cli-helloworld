@@ -1,5 +1,7 @@
 @testing/hello-world
 ===============================================
-my hello world app
+First ServiceNow Seismic UI Component
 
-Component Authors, provide some documentation for your users here!
+## Author
+
+[Chris Yang](https://chrisyang.io)
